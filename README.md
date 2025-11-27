@@ -28,8 +28,3 @@ Email Me 👉 ✉️ **arjunpunmagar001@gmail.com**
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arjunmagarcode&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 
-### 🔝 Top Contributed Repo
-
-[![GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=arjunmagarcode&limit=5&theme=dark&combine_all_yearly_contributions=true)](https://github.com/arjunmagarcode?tab=repositories)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
