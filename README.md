@@ -1,21 +1,10 @@
 #  Hi 👋, I'm Arjun Pun Magar
-A passionate Software Developer Engineer
+A passionate Software Developer Engineer | CS 
 
 Email Me 👉 ✉️ **arjunpunmagar001@gmail.com**
-<!-- 
-- 🔭 **I’m currently working on:** Enter your project info here
-- 🌱 **I’m currently learning:** Enter your tech here
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
-- 💬 **Ask me about:** Collaboration, Tech Support -->
-- ⚡ **Fun fact:** I love watching movies and TV series. 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/YOUR_INVITE_CODE)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjun-pun-magar-27b0b42b4/)
-
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arjunpunmagar001@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjun-pun-magar-27b0b42b4/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arjunpunmagar001@gmail.com)
 
 
 <!-- Snake Game Repo View -->
