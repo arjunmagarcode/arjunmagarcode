@@ -1,8 +1,6 @@
 #  Hi 👋, I'm Arjun Pun Magar
 A passionate Software Developer Engineer | CS 
 
-Email Me 👉 ✉️ **arjunpunmagar001@gmail.com**
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjun-pun-magar-27b0b42b4/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arjunpunmagar001@gmail.com)
 
