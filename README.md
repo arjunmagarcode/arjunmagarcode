@@ -1,6 +1,6 @@
 # Hi, I'm Arjun Pun Magar 👋
 
-**CS Student @ University of Southern Mississippi · 3.93 GPA · Expected May 2027**  
+**CS Student @ University of Southern Mississippi · 3.934 GPA · Expected Dec 2027**  
 **Break Through Tech AI Fellow @ Cornell Tech**  
 **Building at the intersection of AI, full-stack, and systems engineering**
 
@@ -69,17 +69,6 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-
----
-
-## 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=arjunmagarcode&theme=dark&hide_border=true&include_all_commits=false&count_private=false" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjunmagarcode&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="48%" />
-</p>
-
----
 
 ## 🤝 Connect With Me
 
